@@ -199,4 +199,5 @@
       </div>
     </div>
 
+    <h3>esto esta antes del footer XD</h3>
 <?php include "./include/footer.php"; ?>
