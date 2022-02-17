@@ -20,6 +20,8 @@
                     cada hora se le paga el doble, de la hora 46 a la 50, el triple, y que trabajar más de 50 horas no está
                     permitido.
                 </p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae repellat quod rerum! Harum ipsam odio molestias consectetur,
+                     dolorem porro provident, repellat dignissimos explicabo eos eius nisi modi quam tempora atque?</p>
             </div>
         </div>
     </div>
