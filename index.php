@@ -192,7 +192,7 @@
               <p>FICHA:</p>
               <p>2251998</p>
               <p>CENTRO DE FORMACION:</p>
-              <p>Centro de los Recursos Naturales Renovables "La salada"</p>
+              <p>Centro de los Recursos Naturales Renovables "La salada" desde concordia</p>
             </div>
           </div>
         </div>
