@@ -2,6 +2,9 @@
 ?>
 
 <h1 class="text-center m-4">Día de la semana</h1>
+<h1 class="text-center m-4">djkiiiiiiiiqsiixjjc
+    mongi perra
+</h1>
 <br>
 
 
