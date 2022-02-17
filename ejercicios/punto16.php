@@ -1,6 +1,6 @@
 <?php require_once("../include/header.php");  ?>
 
-<h1 class="text-center m-4">Bono navideño</h1>
+<h1 class="text-center m-4">Bononos naideños</h1>
 <h1 class="text-center m-4">Bono navideño no le llego por bruto </h1>
 <br>
 
