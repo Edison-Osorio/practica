@@ -2,6 +2,9 @@
 ?>
 
 <h1 class="text-center m-4">Día de la semana</h1>
+<h1 class="text-center m-4">djkiiiiiiiiqsiixjjc
+    mongi perra
+</h1>
 <br>
 
 
@@ -15,7 +18,9 @@
                 <h1 class="text-center">Ejercicio 13</h1>
                 <p>
                     Realice un algoritmo que, con base en un número proporcionado (1-7), indique el día de la
-                    semana que le corresponde (L-D).
+                    semana que le corresponde (L-D)
+                    ggggggggggggggggggggggggggggggggggggggg8888888888888888888888888888hhhhhhhh
+                    hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.
                 </p>
             </div>
         </div>
