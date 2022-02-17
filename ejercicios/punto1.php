@@ -1,7 +1,7 @@
 <?php require_once("../include/header.php");  ?>
 <h1 class="text-center m-4">Calculo de sueldo</h1>
 <br>
-
+<h2> commit 2 deje la bulla </h2>
 <div class="container">
     <div class="row">
         <div class="col-md-12">
