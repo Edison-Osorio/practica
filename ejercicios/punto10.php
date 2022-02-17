@@ -1,7 +1,12 @@
 <?php require_once("../include/header.php");
 ?>
 
-<h1 class="text-center m-4">Sueldo semanal</h1>
+<h1 class="text-center m-4">Sueldo semanal  de un bbo q no sabe  nada jjjjjjjjj
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, suscipit vero in, 
+    ducimus praesentium iusto quis eligendi nostrum doloribus quas doloremque, qui ullam
+     architecto ut voluptates obcaecati? Cumque, repellendus incidunt.
+
+</h1>
 <br>
 
 <div class="container">
