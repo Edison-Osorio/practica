@@ -7,7 +7,7 @@
     <div class="row">
         <div class="col-md-12">
             <div class="card-header">
-                <h1 class="text-center">Ejercicio 8</h1>
+                <h1 class="text-center">Ejercicio ocho</h1>
                 <p>
                     Represente un algoritmo mediante un diagrama de flujo y el pseudocódigo para determinar a qué lugar podrá ir de vacaciones una persona, considerando que la línea de autobuses “La tortuga” cobra por kilómetro recorrido. Se debe considerar el costo del pasaje tanto de ida, como de vuelta; los datos que se conocen y que son fijos son: México, 750 km; Puerto.Vallarta., 800 km; Acapulco, 1200 km, y Cancún, 1800 km. También se debe considerar la posibilidad de tener que quedarse en casa.
                 </p>
