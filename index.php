@@ -36,7 +36,7 @@
             programación PHP.
           </p>
           <p>
-            monguiiiii gayyyyyyyyyyyyy 
+           que buen servio muchacos el mongui se murio 
           </p>
 
           <ul>
