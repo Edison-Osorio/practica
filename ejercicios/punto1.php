@@ -6,7 +6,7 @@
     <div class="row">
         <div class="col-md-12">
             <div class="card-header">
-                <h1 class="text-center">Ejercicio uno</h1>
+                <h1 class="text-center">Ejercicio uno realizamos una configuracion de ramas </h1>
                 <p>
                     Realice un algoritmo para determinar el sueldo semanal de un trabajador con base en las horas
                     trabajadas y el pago por hora, considerando que después de las 40 horas cada hora se considera
