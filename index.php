@@ -36,7 +36,7 @@
           </p>
 
           <ul>
-            <li>Comprimir la carpeta de los ejercicios</li>
+            <li>Comprimir la carpeta de los ejercicios </li>
             <li>Subir los ejercicios por la plataforma Territorium</li>
             <li>Socializar los ejercicios elaborados ante el grupo.</li>
           </ul>
