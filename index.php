@@ -27,7 +27,11 @@
 <div class="container">
       <div class="row text-white m-4 text-justify">
         <div class="col-md-12">
+<<<<<<< HEAD
           <h1 class="text-center">Taller uno de Algoritmos en PHP subiendolos a github</h1>
+=======
+          <h1 class="text-center">Taller 1 de Algoritmos en PHP subiendolos a github en el repositorio de practica </h1>
+>>>>>>> e09da0a89aabd3a91b78a06e8ff29cd0a86f3104
           <p>
             A continuación se presentan una serie de ejercicios relacionados con
             los temas de: estructuras variables y condicionales; Construir los
@@ -36,7 +40,7 @@
           </p>
 
           <ul>
-            <li>Comprimir la carpeta de los ejercicios</li>
+            <li>Comprimir la carpeta de los ejercicios </li>
             <li>Subir los ejercicios por la plataforma Territorium</li>
             <li>Socializar los ejercicios elaborados ante el grupo.</li>
           </ul>
