@@ -8,7 +8,7 @@
     <div class="row">
         <div class="col-md-12">
             <div class="card-header">
-                <h1 class="text-center">Ejercicio 16</h1>
+                <h1 class="text-center">Ejercicio diez y sei</h1>
                 <p>
                 Realice un algoritmo que permita determinar la cantidad del bono navideño que recibirá un empleado de una tienda, considerando que si su antigüedad es mayor a cuatro años o su sueldo es menor de dos mil pesos, le corresponderá 25 % de su sueldo, y en caso contrario sólo le corresponderá 20 % de éste.
                 </p>
