@@ -28,11 +28,15 @@
       <div class="row text-white m-4 text-justify">
         <div class="col-md-12">
           <h1 class="text-center">Taller 1 de Algoritmos en PHP subiendolos a github</h1>
+            
           <p>
             A continuación se presentan una serie de ejercicios relacionados con
             los temas de: estructuras variables y condicionales; Construir los
             modelos de solución de los problemas planteados en el lenguaje de
             programación PHP.
+          </p>
+          <p>
+            monguiiiii gayyyyyyyyyyyyy 
           </p>
 
           <ul>
